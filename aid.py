@@ -82,6 +82,13 @@ if menu == "Student Dashboard":
     with c3:
         st.markdown('<a href=" https://agent.spjain.online/chat/GKMIMxbgRSP9308S" target="_blank"><button style="background-color:#FF9800; color:white; padding:10px 24px; border:none; border-radius:8px; font-size:16px;">AI for Exam Preparation</button></a>', unsafe_allow_html=True)
 
+    st.markdown("""
+**Quick Access:**  
+- [AI Tutor](https://actual-ai-tutor-link.com)
+- [AI Mentor](https://actual-ai-mentor-link.com)
+- [AI for Exam Preparation](https://actual-ai-exam-link.com)
+""")
+
 
     # ---- Your Current Standing: TRS by Unit ----
     st.markdown("##### 🟢 Your Current Standing: TRS by Unit")
