@@ -76,11 +76,12 @@ if menu == "Student Dashboard":
     st.markdown("##### 🧠 Quick Access")
     c1, c2, c3 = st.columns(3)
     with c1:
-        st.button("AI Tutor", help="Open AI Tutor")
+        st.markdown('<a href=" https://agent.spjain.online/chat/8Yii35qMvJ7VPxXP" target="_blank"><button style="background-color:#4CAF50; color:white; padding:10px 24px; border:none; border-radius:8px; font-size:16px;">AI Tutor</button></a>', unsafe_allow_html=True)
     with c2:
-        st.button("AI Mentor", help="Open AI Mentor")
+        st.markdown('<a href=" https://agent.spjain.online/chat/GKMIMxbgRSP9308S" target="_blank"><button style="background-color:#2196F3; color:white; padding:10px 24px; border:none; border-radius:8px; font-size:16px;">AI Mentor</button></a>', unsafe_allow_html=True)
     with c3:
-        st.button("AI for Exam Preparation", help="Open AI Exam Prep")
+        st.markdown('<a href=" https://agent.spjain.online/chat/GKMIMxbgRSP9308S" target="_blank"><button style="background-color:#FF9800; color:white; padding:10px 24px; border:none; border-radius:8px; font-size:16px;">AI for Exam Preparation</button></a>', unsafe_allow_html=True)
+
 
     # ---- Your Current Standing: TRS by Unit ----
     st.markdown("##### 🟢 Your Current Standing: TRS by Unit")
