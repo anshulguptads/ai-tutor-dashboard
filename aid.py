@@ -178,14 +178,14 @@ elif menu == "Faculty Dashboard":
     else:
         st.warning("No data for selected session.")
 
-    # ---- List of Students at Risk (TRS < 80%) ----
-    st.markdown("##### ⚠️ Students at Risk (TRS < 80%)")
+    # ---- List of Students at Risk (TRS < 60%) ----
+    st.markdown("##### ⚠️ Students at Risk (TRS < 60%)")
     unit_students = student_units_df[
         (student_units_df['program'] == faculty['program']) &
         (student_units_df['cohort'] == cohort) &
         (student_units_df['unit_name'] == unit)
     ]
-    risk_students = unit_students[unit_students['trs_score'] < 80]
+    risk_students = unit_students[unit_students['trs_score'] < 60]
     st.write(f"**Total at risk:** {risk_students.shape[0]}")
     st.dataframe(
         students_df[students_df['student_id'].isin(risk_students['student_id'])][['student_id', 'name', 'email']],
@@ -197,7 +197,7 @@ elif menu == "Faculty Dashboard":
     sessionwise_risk = []
     for sess in sessions['session_num']:
         # Each student only in one row per unit per session in this synthetic structure
-        risk = unit_students[(unit_students['trs_score'] < 80) & (unit_students['sessions_attended'] >= sess)]
+        risk = unit_students[(unit_students['trs_score'] < 60) & (unit_students['sessions_attended'] >= sess)]
         for s in risk['student_id']:
             sessionwise_risk.append({'session': sess, 'student_id': s})
     if sessionwise_risk:
