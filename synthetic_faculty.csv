@@ -1,0 +1,81 @@
+faculty_id,name,email,program,unit_taught,cohort
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Business Analytics,GMBA_Feb24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Business Analytics,GMBA_Aug24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Corporate Finance,GMBA_Feb24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Corporate Finance,GMBA_Aug24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Leadership,GMBA_Feb24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Leadership,GMBA_Aug24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Strategy,GMBA_Feb24
+F2001,Jorge Rogers,rebecca14@example.com,GMBA,Strategy,GMBA_Aug24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Business Analytics,GMBA_Feb24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Business Analytics,GMBA_Aug24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Corporate Finance,GMBA_Feb24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Corporate Finance,GMBA_Aug24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Leadership,GMBA_Feb24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Leadership,GMBA_Aug24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Strategy,GMBA_Feb24
+F2002,Anna Quinn,baileyphillip@example.com,GMBA,Strategy,GMBA_Aug24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Business Analytics,GMBA_Feb24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Business Analytics,GMBA_Aug24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Corporate Finance,GMBA_Feb24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Corporate Finance,GMBA_Aug24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Leadership,GMBA_Feb24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Leadership,GMBA_Aug24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Strategy,GMBA_Feb24
+F2003,Ebony Garcia,joshua12@example.org,GMBA,Strategy,GMBA_Aug24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Business Analytics,GMBA_Feb24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Business Analytics,GMBA_Aug24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Corporate Finance,GMBA_Feb24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Corporate Finance,GMBA_Aug24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Leadership,GMBA_Feb24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Leadership,GMBA_Aug24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Strategy,GMBA_Feb24
+F2004,James Roberts,gonzalezjohn@example.org,GMBA,Strategy,GMBA_Aug24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Business Analytics,GMBA_Feb24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Business Analytics,GMBA_Aug24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Corporate Finance,GMBA_Feb24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Corporate Finance,GMBA_Aug24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Leadership,GMBA_Feb24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Leadership,GMBA_Aug24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Strategy,GMBA_Feb24
+F2005,Justin Torres,ldickerson@example.com,GMBA,Strategy,GMBA_Aug24
+F2006,Kristin Smith,rose15@example.net,MGB,Applied Statistics,MGB_Jan24
+F2006,Kristin Smith,rose15@example.net,MGB,Applied Statistics,MGB_Jun24
+F2006,Kristin Smith,rose15@example.net,MGB,Digital Marketing,MGB_Jan24
+F2006,Kristin Smith,rose15@example.net,MGB,Digital Marketing,MGB_Jun24
+F2006,Kristin Smith,rose15@example.net,MGB,Supply Chain,MGB_Jan24
+F2006,Kristin Smith,rose15@example.net,MGB,Supply Chain,MGB_Jun24
+F2006,Kristin Smith,rose15@example.net,MGB,Project Management,MGB_Jan24
+F2006,Kristin Smith,rose15@example.net,MGB,Project Management,MGB_Jun24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Applied Statistics,MGB_Jan24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Applied Statistics,MGB_Jun24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Digital Marketing,MGB_Jan24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Digital Marketing,MGB_Jun24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Supply Chain,MGB_Jan24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Supply Chain,MGB_Jun24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Project Management,MGB_Jan24
+F2007,Randy Mcmillan,wilsonchristopher@example.org,MGB,Project Management,MGB_Jun24
+F2008,Andrew Thornton,lford@example.org,MGB,Applied Statistics,MGB_Jan24
+F2008,Andrew Thornton,lford@example.org,MGB,Applied Statistics,MGB_Jun24
+F2008,Andrew Thornton,lford@example.org,MGB,Digital Marketing,MGB_Jan24
+F2008,Andrew Thornton,lford@example.org,MGB,Digital Marketing,MGB_Jun24
+F2008,Andrew Thornton,lford@example.org,MGB,Supply Chain,MGB_Jan24
+F2008,Andrew Thornton,lford@example.org,MGB,Supply Chain,MGB_Jun24
+F2008,Andrew Thornton,lford@example.org,MGB,Project Management,MGB_Jan24
+F2008,Andrew Thornton,lford@example.org,MGB,Project Management,MGB_Jun24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Business Analytics,GMBA_Feb24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Business Analytics,GMBA_Aug24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Corporate Finance,GMBA_Feb24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Corporate Finance,GMBA_Aug24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Leadership,GMBA_Feb24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Leadership,GMBA_Aug24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Strategy,GMBA_Feb24
+F2009,Kelly Alvarez,langjonathan@example.com,GMBA,Strategy,GMBA_Aug24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Business Analytics,GMBA_Feb24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Business Analytics,GMBA_Aug24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Corporate Finance,GMBA_Feb24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Corporate Finance,GMBA_Aug24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Leadership,GMBA_Feb24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Leadership,GMBA_Aug24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Strategy,GMBA_Feb24
+F2010,Anna Scott,hunterbryan@example.com,GMBA,Strategy,GMBA_Aug24
